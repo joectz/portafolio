@@ -25,7 +25,5 @@ author: "JC"
 
 sass:
   style: compressed
-  load_paths:
-    - _sass
-  assets/css/style.css
+
 
