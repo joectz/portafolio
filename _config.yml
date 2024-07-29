@@ -6,24 +6,21 @@ theme: jekyll-theme-minimal
 
 # Redes sociales
 social_links:
-  - name: GitHub
-    link: https://github.com/tu-usuario
   - name: LinkedIn
-    link: https://www.linkedin.com/in/tu-usuario/
-  - name: Twitter
-    link: https://twitter.com/tu-usuario
+    link: https://www.linkedin.com/in/jhoel-anibal-cortez-huanca-424031243
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
 
-seo:
-title: "Mi Portafolio"
-description: "Un portafolio simple usando Jekyll y GitHub Pages"
-author: "JC"
+#plugins:
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-feed
 
-sass:
-  style: compressed
+#seo:
+#title: "Mi Portafolio"
+#description: "Un portafolio simple usando Jekyll y GitHub Pages"
+#author: "JC"
+
+#sass:
+#  style: compressed
 
 
