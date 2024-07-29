@@ -3,3 +3,29 @@ logo: /assets/img/FotopPerfil2.png
 #description: Soy un ingeniero de software
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+# Redes sociales
+social_links:
+  - name: GitHub
+    link: https://github.com/tu-usuario
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/tu-usuario/
+  - name: Twitter
+    link: https://twitter.com/tu-usuario
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+seo:
+title: "Mi Portafolio"
+description: "Un portafolio simple usando Jekyll y GitHub Pages"
+author: "JC"
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+  assets/css/style.css
+
