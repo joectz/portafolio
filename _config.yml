@@ -4,11 +4,6 @@ logo: /assets/img/FotopPerfil2.png
 #show_downloads: true
 theme: jekyll-theme-minimal
 
-# Redes sociales
-social_links:
-  - name: LinkedIn
-    link: https://www.linkedin.com/in/jhoel-anibal-cortez-huanca-424031243
-
 
 #plugins:
 #  - jekyll-seo-tag
