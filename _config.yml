@@ -1,21 +1,7 @@
-title: Jhoel A. Cortez Huanca
+title: "Jhoel A. Cortez Huanca"
+description: "Soy un ingeniero de software apasionado por la tecnología y el análisis de datos."
 logo: /assets/img/FotopPerfil2.png
-#description: Soy un ingeniero de software
-#show_downloads: true
-theme: jekyll-theme-cayman
 
-
-#plugins:
-#  - jekyll-seo-tag
-#  - jekyll-sitemap
-#  - jekyll-feed
-
-#seo:
-#title: "Mi Portafolio"
-#description: "Un portafolio simple usando Jekyll y GitHub Pages"
-#author: "JC"
-
-#sass:
-#  style: compressed
-
-
+remote_theme: "nombre-del-repositorio/figs-jekyll-theme" # Reemplaza con el nombre exacto del tema
+plugins:
+  - jekyll-remote-theme # Asegúrate de que el plugin esté activo
