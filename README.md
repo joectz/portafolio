@@ -1,63 +1,85 @@
-# Ingeniero de software
+# **Ingeniero de Software**
 
-## Perfil
-Soy recién egresado de Ingeniería de Sistemas con habilidades en programación y análisis de datos. En busca de oportunidades para desarrollar y aplicar mis conocimientos en un entorno profesional. Proactivo, adaptable y con deseos de aprender y crecer en el campo de la tecnología.
-Apasionado por la resolución de problemas y el análisis de datos. Busco oportunidades para aplicar mis habilidades y contribuir al éxito de proyectos innovadores.
+## **Perfil**
+Recientemente egresado en Ingeniería de Sistemas, con un fuerte enfoque en programación, análisis de datos, y resolución de problemas tecnológicos. Soy una persona proactiva, adaptable y con un fuerte deseo de aprender y contribuir al éxito de proyectos innovadores. Busco una oportunidad profesional para aplicar y desarrollar mis conocimientos en tecnología.
 
-#### Habilidades técnicas: 
-- Python
-- SQL
-- C#
-- .NET
-- React (Web)
-- Visual Basic
-- PowerBI	
+---
 
-#### Habilidades blandas: 
-- Liderazgo
-- Comunicación asertiva
-- Adaptabilidad
-- Analisis y resolución de problemas
-- Ética profesional
-- Trabajo en equipo
+### **Habilidades Técnicas**  
+- **Lenguajes y tecnologías**: Python, SQL, C#, .NET, React (Web), Visual Basic  
+- **Herramientas de análisis de datos**: Power BI  
 
-## Formación
-- EP de Ingeniería de Sistemas | Universidad Andina del Cusco (_Feb 2016 - Jun 2023_)								       		
+### **Habilidades Blandas**  
+- Liderazgo  
+- Comunicación asertiva  
+- Adaptabilidad  
+- Análisis y resolución de problemas  
+- Ética profesional  
+- Trabajo en equipo  
 
-## Experiencia
-**Instalación de redes TCP/IP @ Zona BZ (Lancenter), Cusco (_Julio 2019_)**
-- Planificación del diseño de red, adquisición de equipos y materiales, configuración de los dispositivos de red, implementación y pruebas.
+---
 
-**Desarrollador web @ Cesglym S.R.L, Cusco (_Diciembre 2020 - Diciembre 2022_)**
-- Desarrollo de una pagina web para la empresa Cesglym implico: Requisitos y planificación, diseño visual, desarrollo del contenido, optimización y rendimiento, lanzamiento y mantenimiento.
+## **Formación**
+- **Ingeniería de Sistemas** | Universidad Andina del Cusco (_Febrero 2016 - Junio 2023_)
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+---
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## **Experiencia**
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
--
-## Cursos y certificados
-- Introducción a IoT - Cisco Networking Academy, Junio 2022
-- Curso de diseño gráfico - Skill Lima, Agosto 2022
-- The linux essentials professional develment - NGD team, Diciembre 2022
-- Cybersecurity Essentials - Cisco Networking, Diciembre 2022
-- Gestión de tecnologías de la información, Diciembre 2022
-- SCRUM professional, Abril 2023
+**Instalación de Redes TCP/IP**  
+_Zona BZ (Lancenter), Cusco_ (_Julio 2019_)  
+- Planificación de la red, adquisición y configuración de dispositivos, implementación y pruebas.
 
-## Competencias
-- Diseñador Gráfico, Avanzado
+**Desarrollador Web**  
+_Cesglym S.R.L, Cusco_ (_Diciembre 2020 - Diciembre 2022_)  
+- Desarrollo de una página web, desde la recolección de requisitos hasta el lanzamiento y mantenimiento. Optimización del contenido y mejora del rendimiento.
 
-## Idiomas
-- Ingles, Intermedio
-- Español Nativo
-- Quechua Basico
+---
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+## **Proyectos Destacados**
 
+### **Data-Driven EEG Band Discovery with Decision Trees**  
+[Publicación](https://www.mdpi.com/1424-8220/22/8/3048)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+Desarrollé una estrategia para descubrir bandas EEG óptimas basadas en el espectro de potencia de las señales usando **Python**. Este enfoque automatizado permitió una caracterización más precisa del espectro de potencia, descubriendo bandas más efectivas para analizar la actividad cerebral. 
+
+> ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)  
+
+---
+
+## **Cursos y Certificados**
+- **Cisco Networking Academy**  
+  - Introducción a IoT (_Junio 2022_)  
+  - Cybersecurity Essentials (_Diciembre 2022_)  
+
+- **NGD Team**  
+  - The Linux Essentials Professional Development (_Diciembre 2022_)  
+
+- **Skill Lima**  
+  - Curso de Diseño Gráfico (_Agosto 2022_)  
+
+- **SCRUM Professional** (_Abril 2023_)
+
+---
+
+## **Competencias**
+- **Diseño Gráfico**: Nivel avanzado
+
+---
+
+## **Idiomas**
+- **Español**: Nativo  
+- **Inglés**: Intermedio  
+- **Quechua**: Básico  
+
+---
+
+## **Publicaciones**
+1. **Talebi S., Lary D.J., Wijeratne L. OH., Lary, T.** _Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning_ (2019). DOI: [10.26717/BJSTR.2019.20.003446](https://doi.org/10.26717/BJSTR.2019.20.003446)  
+
+2. **Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J.** _Using Machine Learning for the Calibration of Airborne Particulate Sensors_, Sensors, 2020, 20, 99.  
+
+---
+
+## **Publicaciones de Ciencia de Datos**
+- **[Data Science Blog en Medium](https://medium.com/@shawhin)**  
